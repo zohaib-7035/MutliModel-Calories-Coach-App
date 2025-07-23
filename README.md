@@ -5,6 +5,7 @@ A simple Flask-based web application that helps users calculate their daily calo
 
 ## 🚀 Features
 
+
 - Enter personal data (age, gender, weight, height, activity level)
 - Calculate recommended daily calorie intake using the Mifflin-St Jeor Equation
 - Clean and responsive UI using HTML and CSS (in `templates` and `static` folders)

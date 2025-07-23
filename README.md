@@ -87,8 +87,7 @@ You can deploy this app on platforms like:
 
 ## 📸 Screenshots
 
-*Add screenshots of the UI here (optional)*
-
+![Home Page](home.png)
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
